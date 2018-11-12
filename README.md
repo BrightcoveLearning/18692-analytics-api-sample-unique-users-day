@@ -1,1 +1,1 @@
-# 18692-nalytics-api-sample-unique-users-day
+# Analytics API Sample: Unique Users by Day
